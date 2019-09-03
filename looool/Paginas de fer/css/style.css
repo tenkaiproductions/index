@@ -1,0 +1,624 @@
+html {
+    height: 100%
+}
+
+body {
+    margin 0px;
+    color: white;
+}
+
+.cabezote {
+    margin: auto 0% 5%;
+    display: block
+}
+
+.logo {
+    margin: auto;
+    display: block;
+}
+
+.logo img {
+    margin: auto;
+    display: block;
+    width: 15%;
+        
+}
+
+.logo h2 {
+    color: #152036;
+    text-align: center;
+    font-size: 22pt;
+    font: "playfair display";
+    font-style: italic;
+    
+}
+
+.bmenu {
+    align-content: center;
+    flex: auto;
+
+}
+
+.bmenu ul {
+    margin: auto;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.bmenu ul li a {
+    text-decoration: none;
+    color: #152036;
+    font: 'lato';
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 4px;
+    align-content: center;
+    font-size: 12pt;
+}
+
+
+/*Aqui acaba el navegador y comienzan seccion 1*/
+
+,
+img {
+    margin: 100%;
+    
+}
+
+.conteiner img {
+    margin: auto;
+    width: 100%;
+    height: 20%
+}
+
+.container {
+
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    margin: 100% 80%;
+
+}
+
+.titulodestacado {
+    position: absolute;
+    top;
+    50%;
+    left: 50%;
+    transform: translate(-50%, -200%);
+}
+
+
+
+.titulodestacado hr {
+    color: white;
+    border-bottom-color: white;
+}
+
+
+
+.titulodestacado h1 {
+    text-align: center;
+    font-family: "playfair-display", serif;
+    font-size: 52pt;
+    color: white;
+    
+    
+}
+
+.titulodestacado p {
+    color: white;
+    font: "georgia";
+    font-size: 35pt;
+    font-style: italic;
+    text-align: center;
+        
+   }
+
+/*Aqui comienzan estilos de la seccion dos*/
+
+
+
+.cuadro h3 {
+    color: #152036;
+    font-family: "playfair-display", serif;
+    font-size: 52pt;
+    text-align: center;
+   
+}
+
+.cuadro hr{
+    
+     color: #152036;
+    
+    
+}
+.cuadro h2 {
+    color: #152036;
+    font-family: "georgia", serif;
+    font-style: italic;
+    font-size: 20pt;
+    text-align: center;
+    
+    
+}
+.cuadro p {
+    font-size: 18pt;
+    font: "georgia";
+    
+    
+}
+
+
+.cuadro {
+    color: #152036;
+    margin: auto 30%;
+    display: block;
+    text-align: center
+}
+
+
+
+/*Aqui comienza la seccion tres*/
+
+
+.estudio {
+    color: #152036;margin-bottom: 10%
+}
+
+
+ {
+    font-size: 52pt;
+    
+    
+}
+
+.contenedor {
+    position: relative;
+    display: inline-block;
+    background-color: ;
+    margin: auto;
+    width: 100%
+}
+
+.cajaestudio {
+    background-color: #152036;
+    margin: auto
+}
+
+
+.estudio h4 {
+    text-align: center;
+    margin: 20px;
+    font-family: "playfair display", serif;
+    font-size: 52pt;
+    letter-spacing: 15px;
+
+}
+
+.cajaestudio h5 {
+    color: white;
+    font-family: "lato", sans-serif;
+    margin-bottom: 0%;
+    padding: 2.5% 3% 0%;
+    
+}
+
+.cajaestudio img {
+    margin: auto;
+    width: 45%;
+    padding: 0% 5% 3% 2.5%;
+}
+
+.datos {
+	position: absolute;
+
+
+
+
+    top;
+    70%;
+	left: 787px;
+	transform: translate(50%, -115%);
+
+
+
+
+    background-color;
+	border-left: 1px solid white;
+	top: 549px;
+}
+
+.datos li {
+    color: white;
+    list-style-type: none;
+    font-family: "georgia", serif;
+    font-size: 15pt;  
+    
+}
+
+
+/*Aqui comienza la seccion cuatro*/
+
+.foto{
+   
+    font-size: 30pt;
+    text-align: center;
+    padding: 0%;
+    position: relative;
+    display: inline-block;
+    }
+
+
+.foto1 {
+     background:white;
+     width: 21%;
+     
+}
+
+.foto:hover {
+   opacity: 0.5;
+   background:#152036;
+
+}
+
+
+.foto2{
+    background: white;
+	width: 40%;
+    
+}
+
+
+
+.foto5 {
+     background: white;
+     width: 40%; 
+     
+        
+}
+.foto3 {
+     background: white;
+     width: 40%; 
+     
+        
+}
+.foto6 {
+     background:white;
+     width: 20%;
+    
+
+}
+.foto4 {
+     background:white;
+     width: 40%;
+    
+
+}
+
+
+.contedor1 {display: flex;
+            
+}
+
+.contenedor2 {    
+     margin: 0%;
+     transform: translate(0%, -0%);
+    
+}
+
+/*Aqui comienza la seccion cinco*/
+
+.photo{margin: 5% auto auto;display: block;  position: relative;
+    display: inline-block;
+    text-align: center;
+    }
+
+.foto img{margin: auto; width: 100%;}
+
+.titulodestacados h6{
+    color: white;
+    font-size: 50pt;
+    transform: translate(10%, -1000%);
+    position: absolute;   
+}
+
+
+/*Aqui comienza el footer*/
+
+
+
+footer{
+    display: flex;
+    flex: 0 0 auto;
+    flex-direction: column;
+    margin: 0;
+    width: 100%;
+    background-color: #acdbdf;
+    color: #ffffff;
+    font-family: "georgia", serif;
+    text-align: center;
+    align-content: center;
+}
+
+.firma{
+    align-content: center;
+}
+
+.redesicon
+{
+    align-content: center;
+}
+/*Aquí comienza eventos*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*Aquí comienza Bodas*/
+
+/*Aquí comienza la sección 1*/
+
+.titulodestacado1 {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+}
+
+.titulodestacado1 h1 {
+    text-align: center;
+    font-family: "playfair-display", serif;
+    font-size: 52pt;
+    color: white;
+}
+
+.titulodestacado1 hr{
+    color: white;
+    border-bottom-color: white;
+}
+
+
+/*Aquí comienza la sección 2*/
+
+
+.contenedor-texto-imagen{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    text-align: center;
+    color:#152036;
+    position: absolute;
+
+        
+}
+
+.cuadrotextual h3{
+    font-family: "playfair display", serif;
+    color:#152036;
+    position: relative;
+    font-size: 37pt;
+    padding-top: 20%;
+          
+    
+}
+
+.cuadrotextual h2{
+    font-family: "playfair-display", serif;
+    font-style: italic;
+    font-size: 13pt;
+    padding: 0%
+        
+    
+}
+
+.cuadrotextual p{
+    font-family: "georgia", serif;
+    font-size: 13pt;
+    text-align: justify;
+    padding: 1% 18%
+    
+}.cuadrotextual hr{
+    width: 600px;
+    
+    
+/*Aquí comienza la sección 3*/ 
+        
+        
+}
+.contenedor-galeria-boda{
+    display: flex;
+    padding-top: 70%;
+
+}
+
+.anillosflor{
+    padding-top: 550px;
+    padding-left: 47%;
+    position: absolute}
+
+
+.galeriaboda{
+    color:#152036;
+    font-family: "playfair display", serif;
+    font-size: 30pt;
+    padding-left: 83%;
+    transform: translateY(-1000px);
+    letter-spacing: 4px;
+    
+}
+
+
+/*Aquí cominza sección 4*/
+
+.contenedor-galeria2-boda{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative}
+
+    
+}
+
+galeriaboda2{
+    color:#152036;
+    font-family: "playfair display", serif;
+    font-size: 30pt;
+    padding-left: 1500px;
+    transform: translateY(-1000px)
+}
+
+
+.novios{
+    
+    color:#152036;
+    font-family: "playfair display", serif;
+    font-size: 30pt;
+    padding-left: 83%;
+    letter-spacing: 4px;
+    
+}
+
+/*Aquí cominza sección 5*/
+
+.contenedor-galeria3-boda{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative}
+
+
+
+.flores{
+    
+    color:#152036;
+    font-family: "playfair display", serif;
+    font-size: 30pt;
+    padding-left: 83%;
+    letter-spacing: 4px;
+    transform: translateY(-100px)
+    
+}
+
+
+
+
+
+
+/*AQUI COMIENZA BAUTIZOS*/
+
+
+.contenedor-galeria-bautizo{
+    display: flex;
+    padding-top: 60%;
+    justify-content: center;
+    position: relative
+
+}
+
+.bebe1{
+
+    padding-top: 350px;
+    padding-right: 700px;
+    position: absolute}
+
+.bebe2{
+    padding-top: 165px;
+    padding-left: 60%;
+    position: relative;
+    
+}
+
+.galeriabebe{
+    color:#152036;
+    font-family: "playfair display", serif;
+    font-size: 30pt;
+    padding-left: 83%;
+    transform: translateY(-1000px);
+    letter-spacing: 4px;
+    
+    
+}
+
+.galeriabebe{
+    
+    padding-left:200px;
+    padding-top: 10%;
+    position: absolute;
+    
+}
+
+/*Aquí cominza sección 4*/
+
+
+.contenedor-galeria2-bautizo{
+    padding-top: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    position: relative}
+
+.familia1{
+    
+}
+
+.familia2{
+    padding-top: 300px;
+}
+
+.galeriafamilia{
+     color:#152036;
+    font-family: "playfair display", serif;
+    font-size: 30pt;
+    letter-spacing: 4px;
+    text-align: right;
+    position: relative;
+    transform: translateY(-700px);
+    padding-right: 150px;
+    
+}
+
+/*Aquí cominza sección 5*/
+
+.contenedor-galeria3-bautizo{
+    padding-top: 10%;
+    display: flex;
+    flex-direction:row-reverse;
+    justify-content: space-around;
+    position: relative}
+
+
+.galeriaceremonias{
+    color:#152036;
+    font-family: "playfair display", serif;
+    font-size: 30pt;
+    letter-spacing: 4px;
+    text-align: right;
+    position: relative;
+    padding-right: 500px;
+        
+    
+}
