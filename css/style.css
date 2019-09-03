@@ -218,17 +218,23 @@ img {
 
 
 
-    top;
     70%;
-	left: 787px;
-	transform: translate(50%, -115%);
+	left: 813px;
+	transform: translate(50%, -90%);
+
+
+
+
+
+
+
 
 
 
 
     background-color;
 	border-left: 1px solid white;
-	top: 549px;
+	top: 538px;
 }
 
 .datos li {
@@ -254,7 +260,7 @@ img {
 
 .foto1 {
      background:white;
-     width: 21%;
+     width: 16%;
      
 }
 
@@ -267,7 +273,8 @@ img {
 
 .foto2{
     background: white;
-	width: 40%;
+	width: 30%;
+	clip: rect(40px, 40px, 40px, 40px);
     
 }
 
@@ -281,19 +288,19 @@ img {
 }
 .foto3 {
      background: white;
-     width: 40%; 
+     width: 30%; 
      
         
 }
 .foto6 {
      background:white;
      width: 20%;
-    
+    float: inherit;
 
 }
 .foto4 {
      background:white;
-     width: 40%;
+     width: 20%;
     
 
 }
